@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dilip9066/covid_web.git/static/css/main.834e8703.chunk.css",
+    "main.js": "/dilip9066/covid_web.git/static/js/main.85569afe.chunk.js",
+    "main.js.map": "/dilip9066/covid_web.git/static/js/main.85569afe.chunk.js.map",
+    "runtime-main.js": "/dilip9066/covid_web.git/static/js/runtime-main.ff5bfceb.js",
+    "runtime-main.js.map": "/dilip9066/covid_web.git/static/js/runtime-main.ff5bfceb.js.map",
+    "static/js/2.0fafb986.chunk.js": "/dilip9066/covid_web.git/static/js/2.0fafb986.chunk.js",
+    "static/js/2.0fafb986.chunk.js.map": "/dilip9066/covid_web.git/static/js/2.0fafb986.chunk.js.map",
+    "index.html": "/dilip9066/covid_web.git/index.html",
+    "precache-manifest.372351f80330c911fbb3ef174651bd17.js": "/dilip9066/covid_web.git/precache-manifest.372351f80330c911fbb3ef174651bd17.js",
+    "service-worker.js": "/dilip9066/covid_web.git/service-worker.js",
+    "static/css/main.834e8703.chunk.css.map": "/dilip9066/covid_web.git/static/css/main.834e8703.chunk.css.map",
+    "static/js/2.0fafb986.chunk.js.LICENSE.txt": "/dilip9066/covid_web.git/static/js/2.0fafb986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5bfceb.js",
+    "static/js/2.0fafb986.chunk.js",
+    "static/css/main.834e8703.chunk.css",
+    "static/js/main.85569afe.chunk.js"
+  ]
+}
